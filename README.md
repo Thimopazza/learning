@@ -1,2 +1,1 @@
-# learning
-This is for testing git
+this is just a demo
